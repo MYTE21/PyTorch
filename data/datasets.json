@@ -1,0 +1,14 @@
+{
+    "data": {
+        "mac": "/../../../../../../Volumes/Workstation",
+        "win": "D:",
+        "pytorch": {
+            "raw": {
+                "rice_type_classification": "/Datasets/PyTorch/tabular_data_classification/rice_type_classification.csv"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {}
+        }
+    }
+}

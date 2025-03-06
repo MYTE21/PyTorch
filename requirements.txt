@@ -1,0 +1,12 @@
+black
+jupyter
+jupyterlab
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchaudio
+torchvision
+torch-summary
