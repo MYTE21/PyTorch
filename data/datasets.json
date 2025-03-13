@@ -2,9 +2,18 @@
     "data": {
         "mac": "/../../../../../../Volumes/Workstation",
         "win": "D:",
-        "pytorch": {
+        "pytorch-tabular": {
             "raw": {
-                "rice_type_classification": "/Datasets/PyTorch/tabular_data_classification/rice_type_classification.csv"
+                "rice_type_classification": "/Datasets/PyTorch/tabular_classification/rice_type_classification.csv"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {}
+        },
+        "pytorch-image": {
+            "raw": {
+                "animal_faces_classification_train": "/Datasets/PyTorch/image_classification/train",
+                "animal_faces_classification_validation": "/Datasets/PyTorch/image_classification/validation"
             },
             "external": {},
             "interim": {},
