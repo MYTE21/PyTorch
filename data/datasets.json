@@ -2,6 +2,17 @@
     "data": {
         "mac": "/../../../../../../Volumes/Workstation",
         "win": "D:",
+        "Fashion-mnist": {
+            "raw": {
+                "train": "/Datasets/PyTorch/fashion_mnist/train",
+                "test": "/Datasets/PyTorch/fashion_mnist/test"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {
+                "model": "/Datasets/PyTorch/fashion_mnist/models/model.pth"
+            }
+        },
         "pytorch-tabular": {
             "raw": {
                 "rice_type_classification": "/Datasets/PyTorch/tabular_classification/rice_type_classification.csv"
