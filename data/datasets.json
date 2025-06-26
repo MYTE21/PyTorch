@@ -29,6 +29,16 @@
             "external": {},
             "interim": {},
             "processed": {}
+        },
+        "pytorch-pretrained-image": {
+            "raw": {
+                "bean_leaf_classification_train": "/Datasets/PyTorch/pretrained_models_image_classification/train.csv",
+                "bean_leaf_classification_validation": "/Datasets/PyTorch/pretrained_models_image_classification/val.csv",
+                "bean_leaf_folder": "/Datasets/PyTorch/pretrained_models_image_classification/"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {}
         }
     }
 }
