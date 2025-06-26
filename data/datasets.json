@@ -39,6 +39,15 @@
             "external": {},
             "interim": {},
             "processed": {}
+        },
+        "pytorch-audio": {
+            "raw": {
+                "files_paths": "/Datasets/PyTorch/audio_classification/files_paths.csv",
+                "audio_folder" : "/Datasets/PyTorch/audio_classification"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {}
         }
     }
 }
