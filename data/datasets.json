@@ -48,6 +48,14 @@
             "external": {},
             "interim": {},
             "processed": {}
+        },
+        "pytorch-text": {
+            "raw": {
+                "sarcasm": "/Datasets/PyTorch/text_classification_transformers/Sarcasm_Headlines_Dataset.json"
+            },
+            "external": {},
+            "interim": {},
+            "processed": {}
         }
     }
 }
